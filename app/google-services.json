@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883663567026",
+    "project_id": "tabledkotlin-42d30",
+    "storage_bucket": "tabledkotlin-42d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883663567026:android:1a024e412009c50512b1ab",
+        "android_client_info": {
+          "package_name": "com.runner.tabledeanuncioskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883663567026-peu5cjamb6jrkrjd2barogbv7m2p7e8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.runner.tabledeanuncioskotlin",
+            "certificate_hash": "1e2c56a111f63a19f9f33187cf7a7ee49e973444"
+          }
+        },
+        {
+          "client_id": "883663567026-au6fs0hdead3obdqq0f3urt7fg1olrne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy94pVSL3wOscxE44v2goykbi-xxUIFPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883663567026-au6fs0hdead3obdqq0f3urt7fg1olrne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

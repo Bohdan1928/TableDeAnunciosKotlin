@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TableDeAnunciosKotlin</string>
+
+    <!--Menu Drawer Strings -->
+    <string name="ad_cat1">Оголошення</string>
+    <string name="ad_my_ads">Мої Оголошення</string>
+    <string name="ad_car">Машини</string>
+    <string name="ad_pc">ПК</string>
+    <string name="ad_smartphone">Смартфони</string>
+    <string name="ad_dm">Побутова техніка</string>
+    <string name="ad_cat2">Побутова техніка</string>
+    <string name="ac_sign_up">Реєстрація</string>
+    <string name="ac_sign_in">Вхід</string>
+    <string name="ac_sign_out">Вихід</string>
+    <string name="ac_open">Open</string>
+    <string name="ac_close">Close</string>
+    <string name="not_reg">Увійдйть або зареєструйтесь</string>
+    <!-- Sign Dialog -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in_action">Увійти</string>
+    <string name="sign_up_action">Зареєструватись</string>
+    <string name="sign_in">Вхід</string>
+    <string name="sign_up">Реєстрація</string>
+    <string name="forgot_password">Забули пароль?</string>
+    <string name="sign_up_error">Не вдалось зареєструватись</string>
+    <string name="sign_in_error">Не вдалось увійт</string>
+    <string name="send_verify_error">Не вдалось відправити лист для верифікації</string>
+    <string name="send_verify_done">Підтвердіть реєстрацію у листі на вашій пошті</string>
+    <string name="email_reset_password_send">Лист для скидання пароля надіслано</string>
+    <string name="dialog_reset_email_massage">Для віднеовлення пароля вкажіть ваш email</string>
+    <string name="link_email_to_google">Email успішно об\'єднаний з Google акаунтом</string>
+
+
+</resources>
